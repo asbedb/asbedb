@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Asbed</h1>
+<h3 align="center">I'm a full stack developer from Melbourne</h3>
 
-<!--
-**asbedb/asbedb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asbedb&theme=dracula" alt="asbedb" /></a> </p>
 
-Here are some ideas to get you started:
+- 🔭 I’m always working on new ideas that help make people's lives easier.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **Python, JavaScript and C#**
+
+- 📝 I regularly write articles on [https://medium.com/@asbedb](https://medium.com/@asbedb)
+
+- 💬 Ask me about **NextJS, TypeScript and Godot**
+
+- 📫 Let's connect **through socials!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/asbedb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asbedb" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/asbed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asbed" height="30" width="40" /></a>
+</p>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asbedb&show_icons=true&locale=en&layout=compact&theme=dracula" alt="asbedb" /></p>
