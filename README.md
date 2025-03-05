@@ -5,11 +5,7 @@
 
 - 🔭 I’m always working on new ideas that help make people's lives easier.
 
-- 🌱 I’m currently learning **Python, JavaScript and C#**
-
 - 📝 I regularly write articles on [https://medium.com/@asbedb](https://medium.com/@asbedb)
-
-- 💬 Ask me about **NextJS, TypeScript and Godot**
 
 - 📫 Let's connect **through socials!**
 
