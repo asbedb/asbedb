@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/asbedb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asbedb" height="30" width="40" /></a>
+<a href="https://bsky.app/profile/asbedb.bsky.social" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" alt="asbedb" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/asbed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asbed" height="30" width="40" /></a>
 </p>
 
