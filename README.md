@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Asbed</h1>
 <h3 align="center">I'm a full stack developer from Melbourne</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asbedb&theme=dracula" alt="asbedb" /></a> </p>
-
 - 🔭 I’m always working on new ideas that help make people's lives easier.
 
 - 📝 I regularly write articles on [my docs page](https://docs.asbedb.com)
