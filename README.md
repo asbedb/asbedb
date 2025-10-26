@@ -3,7 +3,7 @@
 
 - 🔭 I’m always working on new ideas that help make people's lives easier.
 
-- 📝 I regularly write articles on [site](https://docs.asbedb.com)
+- 📝 I regularly write articles on [my website](https://asbedb.dev)
 
 - 📫 Let's connect **through socials!**
 
