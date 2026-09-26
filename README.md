@@ -41,8 +41,6 @@ asbedb@node:/usr/asbedb$ tree
         ├── linux/               
         ├── microsoft/           
         └── cisco/               
-
-10 languages, 8 tools, 1 terminal, ∞ open tabs
 ```
 <p align="left">
 <a href="https://bsky.app/profile/asbedb.bsky.social" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" alt="asbedb" height="30" width="40" /></a>
