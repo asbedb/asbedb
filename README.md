@@ -1,8 +1,7 @@
 <img src="banner.svg" alt="asbedb" />
+More about me at: <a href="https://asbedb.dev">asbedb.dev</a>
 
-```bash
-# Connect with me via https://asbedb.dev/
-                                                      
+```bash                                                     
 DISK : /dev/sideprojects ............. 97% full  WARN
 Detecting peripherals...
   [x] Mechanical keyboard (loud)
@@ -45,10 +44,7 @@ asbedb@node:/usr/asbedb$ tree
 
 10 languages, 8 tools, 1 terminal, ∞ open tabs
 ```
-
-<a href="https://asbedb.dev">asbedb.dev</a>
 <p align="left">
 <a href="https://bsky.app/profile/asbedb.bsky.social" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" alt="asbedb" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/asbed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asbed" height="30" width="40" /></a>
 </p>
-<h1>// techNerd</h3> 
